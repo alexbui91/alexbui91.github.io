@@ -175,10 +175,19 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  teacher_assistant:
     output: true
     permalink: /:collection/:path/
   publications:
+    output: true
+    permalink: /:collection/:path/
+  projects:
+    output: true
+    permalink: /:collection/:path/
+  materials:
+    output: true
+    permalink: /:collection/:path/
+  news:
     output: true
     permalink: /:collection/:path/
 
@@ -202,10 +211,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _teacher_assistant
   - scope:
       path: ""
-      type: teaching
+      type: teacher_assistant
     values:
       layout: single
       author_profile: true
@@ -215,6 +224,24 @@ defaults:
   - scope:
       path: ""
       type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  #projects
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  #news
+  - scope:
+      path: ""
+      type: news
     values:
       layout: single
       author_profile: true
