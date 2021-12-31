@@ -4,8 +4,8 @@ main:
   - title: "CV"
     url: /cv/
   
-  - title: "Publications"
-    url: /publications/ 
+  - title: "Certificates"
+    url: /certificates/ 
 
   - title: "Projects"
     url: /projects/ 
@@ -13,8 +13,8 @@ main:
   - title: "Teacher Assistant"
     url: /teacher-assistant/ 
   
-  - title: "News"
-    url: /News/ 
+  - title: "Timeline"
+    url: /timeline/ 
 
   - title: "Materials"
     url: /year-archive/

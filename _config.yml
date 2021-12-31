@@ -178,7 +178,7 @@ collections:
   teacher_assistant:
     output: true
     permalink: /:collection/:path/
-  publications:
+  certificates:
     output: true
     permalink: /:collection/:path/
   projects:
@@ -220,10 +220,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _publications
+  # _certificates
   - scope:
       path: ""
-      type: publications
+      type: certificates
     values:
       layout: single
       author_profile: true

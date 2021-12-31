@@ -4,6 +4,7 @@ collection: teacher_assistant
 type: "Workshop"
 permalink: /teacher-assistant/2020-autumn-machine-learning-and-deep-learning-for-data-science
 venue: "Seoul National University, Graduate School of Data Science"
+syllabus: "hello"
 # date: 2020-09-01
 location: "Seoul, South Korea"
 ---
