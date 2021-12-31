@@ -1,5 +1,5 @@
 ---
 title: "Complete Master's Program"
-img: "grad.png"
+img: "snu.png"
 date: "2019, Aug 31st"
 ---
