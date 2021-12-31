@@ -11,7 +11,7 @@ title                    : "Alex Bui / Ph.D. Candidate at Seoul National Univers
 title_separator          : "-"
 name                     : &name "Alex Bui (Tien-Cuong Bui)"
 description              : &description "personal description"
-url                      : https://alexbui91.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://alexbui91.github.io # the base hostname & protocol for your site e.g. "mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "alexbui91/alexbui91.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -25,7 +25,7 @@ comments:
   disqus:
     shortname            :
   discourse:
-    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+    server               : # meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
     appid                :
     num_posts            : # 5 (default)
@@ -64,7 +64,7 @@ facebook:
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
-# - https://developers.google.com/structured-data/customize/social-profiles
+# - developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
@@ -86,24 +86,24 @@ author:
   location         : "Seoul, South Korea"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=B0_tbaEAAAAJ"
+  googlescholar    : "scholar.google.com/citations?user=B0_tbaEAAAAJ"
   email            : "cuongbt91@snu.ac.kr"
-  researchgate     : "https://www.researchgate.net/profile/Cuong-Bui-3"
+  researchgate     : "www.researchgate.net/profile/Cuong-Bui-3"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "https://www.facebook.com/alex.bui.91/" 
+  facebook         : "www.facebook.com/alex.bui.91/" 
   foursquare       :
-  github           : "https://github.com/alexbui91"
+  github           : "github.com/alexbui91"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/alex-bui-snu/"
-  orcid            : "https://orcid.org/0000-0002-6697-2617"
+  linkedin         : "www.linkedin.com/in/alex-bui-snu/"
+  orcid            : "orcid.org/0000-0002-6697-2617"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
@@ -190,6 +190,9 @@ collections:
   news:
     output: true
     permalink: /:collection/:path/
+  timeline:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -224,6 +227,15 @@ defaults:
   - scope:
       path: ""
       type: certificates
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # timeline
+  - scope:
+      path: ""
+      type: timeline
     values:
       layout: single
       author_profile: true
@@ -293,7 +305,7 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-# https://github.com/jekyll/jekyll-archives
+# github.com/jekyll/jekyll-archives
 # jekyll-archives:
 #   enabled:
 #     - categories
