@@ -1,0 +1,40 @@
+---
+layout: archive
+title: "Timeline"
+permalink: /timeline/
+author_profile: true
+---
+
+<link rel="stylesheet" href="{{base_url}}/assets/css/timeline.css">
+<style>
+    .cd-timeline{
+        margin-top: 20px;
+        margin-bottom: 100px;
+    }
+    .cd-timeline__content h2{
+        font-size: 21px;
+    }
+</style>
+<section class="cd-timeline js-cd-timeline">
+    
+    <div class="container max-width-lg cd-timeline__container">
+        {% for post in site.timeline reversed %}
+        <div class="cd-timeline__block">
+            <div class="cd-timeline__img">
+                <img src="{{base_url}}/assets/img/{{post.img}}" alt="Picture">
+            </div> <!-- cd-timeline__img -->
+
+            <div class="cd-timeline__content text-component">
+                <h2>{{post.title}}</h2>
+                <p class="color-contrast-medium"></p>
+
+                <div class="flex justify-between items-center">
+                <span class="cd-timeline__date">{{post.date | date: "%B %d, %Y"}}</span>
+                <!-- <a href="#0" class="btn btn--subtle">Read more</a> -->
+                </div>
+            </div> <!-- cd-timeline__content -->
+        </div> <!-- cd-timeline__block -->
+        {% endfor %}
+    </div>
+</section> <!-- cd-timeline -->
+<script src="{{base_url}}/assets/js/timeline.js"></script>

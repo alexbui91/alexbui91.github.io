@@ -1,0 +1,17 @@
+---
+layout: archive
+title: "Certificates"
+permalink: /certificates/
+author_profile: true
+---
+
+<h2>I accomplished three certificates from Coursera, reflecting my never-ending curiosity and thirst for knowledge. I believe that the number of certificates will continue increasing.</h2>
+
+<ul>
+{% for post in site.certificates reversed %}
+    <li>
+        <h3><a href="{{post.coursera}}" target="_blank">{{post.title}}</a></h3>
+        <iframe src="{{post.drive}}" width="1024" height="768" allow="autoplay"></iframe>
+    </li>
+{% endfor %}
+</ul>
