@@ -1,5 +1,5 @@
 ---
 title: "Teacher Assistant"
-img: ""
+img: "assistant.png"
 date: "2020, March 1st"
 ---
