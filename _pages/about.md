@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello This is Alex. I'm a software engineering and also a data scientist.
-I have knowledge curiosity and an entrepreneur mindset.
+Hello This is Alex. I'm a software engineering and also a data scientist, who has the curiosity for knowledge.
 I always want to challenge myself and try to learn new things every day.
 Besides, I have a deep interest in solving business problems, especially in finance and supply chain.
 I want to use my technical understandings to solve real-world problems and bring values to life.
