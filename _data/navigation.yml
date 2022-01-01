@@ -7,16 +7,16 @@ main:
   - title: "Certificates"
     url: /certificates/ 
 
-  - title: "Projects"
-    url: /projects/ 
-
-  - title: "Teacher Assistant"
-    url: /teacher-assistant/ 
-  
   - title: "Timeline"
     url: /timeline/ 
 
-  - title: "Materials"
-    url: /year-archive/
+  - title: "Teacher Assistant"
+    url: /teacher-assistant/ 
+
+  - title: "Projects"
+    url: /projects/ 
+
+  - title: "Blogs"
+    url: /blogs/
     
   

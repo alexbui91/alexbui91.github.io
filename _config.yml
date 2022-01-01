@@ -175,6 +175,9 @@ kramdown:
 
 # Collections
 collections:
+  blogs:
+    output: true
+    permalink: /:collection/:path/
   teacher_assistant:
     output: true
     permalink: /:collection/:path/
@@ -199,7 +202,7 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: blogs
     values:
       layout: single
       author_profile: true
