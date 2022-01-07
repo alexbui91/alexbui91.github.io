@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Don't let the present limit your future"
+title: "Good Things Come to Those Who Hustle! <span style='font-size: 13px;'> (Chuck Noll) </span>"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
