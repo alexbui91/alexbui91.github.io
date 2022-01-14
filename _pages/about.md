@@ -17,7 +17,7 @@ I'm a Ph.D. Candidate at Seoul National University (SNU) from 2019.
 I got a master's degree in electrical and computer engineering at SNU in 2019.
 Before joining SNU, I got an engineering degree in Information Technology from Hanoi University of Science and Technology in 2017.
 From 2017 and 2019, I worked at a small start-up company as a software engineer, where I took charge of the lead of CRM software development team.
-For more information about my academic performance and working experience, pleas check my [CV](/cv) out.
+For more information about my academic performance and working experience, pleas check my [Linkedin](https://www.linkedin.com/in/alex-bui-snu/) out.
 
 
 
