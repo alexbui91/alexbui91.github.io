@@ -2,7 +2,7 @@
 main:
   
   - title: "CV"
-    url: /cv/
+    url: https://drive.google.com/file/d/1IO60REIUUTXWFhgI4e3twVkbFicPCicD/view
   
   - title: "Certificates"
     url: /certificates/ 
