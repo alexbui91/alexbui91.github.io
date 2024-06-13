@@ -4,4 +4,4 @@ title: 'AI-based Music Annotation System'
 permalink: /projects/ai-base-music-annotation-system
 ---
 
-[![Mosaic: AI-based Music Annotation System](https://www.youtube.com/watch?v=BfQwopm4_TU)](https://www.youtube.com/watch?v=BfQwopm4_TU)
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=BfQwopm4_TU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
