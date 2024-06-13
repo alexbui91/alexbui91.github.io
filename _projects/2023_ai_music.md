@@ -4,3 +4,4 @@ title: 'AI-based Music Annotation System'
 permalink: /projects/ai-base-music-annotation-system
 ---
 
+[![Mosaic: AI-based Music Annotation System](https://www.youtube.com/watch?v=BfQwopm4_TU)](https://www.youtube.com/watch?v=BfQwopm4_TU)
