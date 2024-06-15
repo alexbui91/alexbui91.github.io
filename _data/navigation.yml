@@ -2,19 +2,22 @@
 main:
   
   - title: "CV"
-    url: https://drive.google.com/file/d/1YoYF2cgBmAXT08qzB7eLDmfEM4yU5j_i/view
+    url: https://drive.google.com/file/d/1paOVKczB9FfOoO-_Y_HWMC71_I53eHs6/view
   
-  - title: "Certificates"
-    url: /certificates/ 
-
   - title: "Timeline"
     url: /timeline/ 
+
+  - title: "Publications"
+    url: https://scholar.google.com/citations?user=B0_tbaEAAAAJ&hl=en/ 
 
   - title: "Teacher Assistant"
     url: /teacher-assistant/ 
 
   - title: "Projects"
     url: /projects/ 
+
+  - title: "Certificates"
+    url: /certificates/ 
 
   - title: "Blogs"
     url: /blogs/
