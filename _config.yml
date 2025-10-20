@@ -86,7 +86,7 @@ author:
   location         : "Seoul, South Korea"
   employer         :
   pubmed           : 
-  googlescholar    : "citations?user=B0_tbaEAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=B0_tbaEAAAAJ&hl=en"
   email            : "cuongbt91@snu.ac.kr"
   researchgate     : "profile/Cuong-Bui-3"
   uri              :
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "in/alex-bui-snu/"
-  orcid            : "0000-0002-6697-2617"
+  linkedin         : "alex-bui-snu"
+  orcid            : "https://orcid.org/0000-0002-6697-2617"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
