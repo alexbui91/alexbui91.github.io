@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "ALEX BUI"
 title_separator          : "-"
-name                     : &name "Alex Bui (Tien-Cuong Bui)"
+name                     : &name "Bui Tien Cuong (Alex Bui)"
 description              : &description "personal description"
 url                      : https://alexbui91.github.io # the base hostname & protocol for your site e.g. "mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Alex Bui"
-  avatar           : "buitiencuong.jpeg"
+  avatar           : "alexbui.jpg"
   bio              : "Hello I'm Alex Bui. I'm a computer scientist and a data scientist."
   location         : "Seoul, South Korea"
   employer         :
